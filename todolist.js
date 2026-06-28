@@ -51,3 +51,4 @@ a.splice(numd,1);
 default:
     alert("wrong input");
         } }
+//this is a simple comment
